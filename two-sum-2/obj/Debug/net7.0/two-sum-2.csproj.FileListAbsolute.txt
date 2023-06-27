@@ -1,0 +1,15 @@
+C:\Users\Quyson\Desktop\computer\leetcode\two-pointers\two-sum-2\bin\Debug\net7.0\two-sum-2.exe
+C:\Users\Quyson\Desktop\computer\leetcode\two-pointers\two-sum-2\bin\Debug\net7.0\two-sum-2.deps.json
+C:\Users\Quyson\Desktop\computer\leetcode\two-pointers\two-sum-2\bin\Debug\net7.0\two-sum-2.runtimeconfig.json
+C:\Users\Quyson\Desktop\computer\leetcode\two-pointers\two-sum-2\bin\Debug\net7.0\two-sum-2.dll
+C:\Users\Quyson\Desktop\computer\leetcode\two-pointers\two-sum-2\bin\Debug\net7.0\two-sum-2.pdb
+C:\Users\Quyson\Desktop\computer\leetcode\two-pointers\two-sum-2\obj\Debug\net7.0\two-sum-2.csproj.AssemblyReference.cache
+C:\Users\Quyson\Desktop\computer\leetcode\two-pointers\two-sum-2\obj\Debug\net7.0\two-sum-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quyson\Desktop\computer\leetcode\two-pointers\two-sum-2\obj\Debug\net7.0\two-sum-2.AssemblyInfoInputs.cache
+C:\Users\Quyson\Desktop\computer\leetcode\two-pointers\two-sum-2\obj\Debug\net7.0\two-sum-2.AssemblyInfo.cs
+C:\Users\Quyson\Desktop\computer\leetcode\two-pointers\two-sum-2\obj\Debug\net7.0\two-sum-2.csproj.CoreCompileInputs.cache
+C:\Users\Quyson\Desktop\computer\leetcode\two-pointers\two-sum-2\obj\Debug\net7.0\two-sum-2.dll
+C:\Users\Quyson\Desktop\computer\leetcode\two-pointers\two-sum-2\obj\Debug\net7.0\refint\two-sum-2.dll
+C:\Users\Quyson\Desktop\computer\leetcode\two-pointers\two-sum-2\obj\Debug\net7.0\two-sum-2.pdb
+C:\Users\Quyson\Desktop\computer\leetcode\two-pointers\two-sum-2\obj\Debug\net7.0\two-sum-2.genruntimeconfig.cache
+C:\Users\Quyson\Desktop\computer\leetcode\two-pointers\two-sum-2\obj\Debug\net7.0\ref\two-sum-2.dll
