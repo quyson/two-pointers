@@ -1,0 +1,15 @@
+C:\Users\Quyson\Desktop\computer\leetcode\two-pointers\trapping-water\bin\Debug\net7.0\trapping-water.exe
+C:\Users\Quyson\Desktop\computer\leetcode\two-pointers\trapping-water\bin\Debug\net7.0\trapping-water.deps.json
+C:\Users\Quyson\Desktop\computer\leetcode\two-pointers\trapping-water\bin\Debug\net7.0\trapping-water.runtimeconfig.json
+C:\Users\Quyson\Desktop\computer\leetcode\two-pointers\trapping-water\bin\Debug\net7.0\trapping-water.dll
+C:\Users\Quyson\Desktop\computer\leetcode\two-pointers\trapping-water\bin\Debug\net7.0\trapping-water.pdb
+C:\Users\Quyson\Desktop\computer\leetcode\two-pointers\trapping-water\obj\Debug\net7.0\trapping-water.csproj.AssemblyReference.cache
+C:\Users\Quyson\Desktop\computer\leetcode\two-pointers\trapping-water\obj\Debug\net7.0\trapping-water.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quyson\Desktop\computer\leetcode\two-pointers\trapping-water\obj\Debug\net7.0\trapping-water.AssemblyInfoInputs.cache
+C:\Users\Quyson\Desktop\computer\leetcode\two-pointers\trapping-water\obj\Debug\net7.0\trapping-water.AssemblyInfo.cs
+C:\Users\Quyson\Desktop\computer\leetcode\two-pointers\trapping-water\obj\Debug\net7.0\trapping-water.csproj.CoreCompileInputs.cache
+C:\Users\Quyson\Desktop\computer\leetcode\two-pointers\trapping-water\obj\Debug\net7.0\trapping-water.dll
+C:\Users\Quyson\Desktop\computer\leetcode\two-pointers\trapping-water\obj\Debug\net7.0\refint\trapping-water.dll
+C:\Users\Quyson\Desktop\computer\leetcode\two-pointers\trapping-water\obj\Debug\net7.0\trapping-water.pdb
+C:\Users\Quyson\Desktop\computer\leetcode\two-pointers\trapping-water\obj\Debug\net7.0\trapping-water.genruntimeconfig.cache
+C:\Users\Quyson\Desktop\computer\leetcode\two-pointers\trapping-water\obj\Debug\net7.0\ref\trapping-water.dll

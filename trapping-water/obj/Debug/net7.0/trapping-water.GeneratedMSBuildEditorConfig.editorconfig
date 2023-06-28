@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = most_water
-build_property.ProjectDir = c:\Users\Quyson\Desktop\computer\leetcode\two-pointers\most-water\
+build_property.RootNamespace = trapping_water
+build_property.ProjectDir = C:\Users\Quyson\Desktop\computer\leetcode\two-pointers\trapping-water\
