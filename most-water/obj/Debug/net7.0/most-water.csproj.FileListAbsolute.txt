@@ -1,0 +1,15 @@
+C:\Users\Quyson\Desktop\computer\leetcode\two-pointers\most-water\bin\Debug\net7.0\most-water.exe
+C:\Users\Quyson\Desktop\computer\leetcode\two-pointers\most-water\bin\Debug\net7.0\most-water.deps.json
+C:\Users\Quyson\Desktop\computer\leetcode\two-pointers\most-water\bin\Debug\net7.0\most-water.runtimeconfig.json
+C:\Users\Quyson\Desktop\computer\leetcode\two-pointers\most-water\bin\Debug\net7.0\most-water.dll
+C:\Users\Quyson\Desktop\computer\leetcode\two-pointers\most-water\bin\Debug\net7.0\most-water.pdb
+C:\Users\Quyson\Desktop\computer\leetcode\two-pointers\most-water\obj\Debug\net7.0\most-water.csproj.AssemblyReference.cache
+C:\Users\Quyson\Desktop\computer\leetcode\two-pointers\most-water\obj\Debug\net7.0\most-water.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quyson\Desktop\computer\leetcode\two-pointers\most-water\obj\Debug\net7.0\most-water.AssemblyInfoInputs.cache
+C:\Users\Quyson\Desktop\computer\leetcode\two-pointers\most-water\obj\Debug\net7.0\most-water.AssemblyInfo.cs
+C:\Users\Quyson\Desktop\computer\leetcode\two-pointers\most-water\obj\Debug\net7.0\most-water.csproj.CoreCompileInputs.cache
+C:\Users\Quyson\Desktop\computer\leetcode\two-pointers\most-water\obj\Debug\net7.0\most-water.dll
+C:\Users\Quyson\Desktop\computer\leetcode\two-pointers\most-water\obj\Debug\net7.0\refint\most-water.dll
+C:\Users\Quyson\Desktop\computer\leetcode\two-pointers\most-water\obj\Debug\net7.0\most-water.pdb
+C:\Users\Quyson\Desktop\computer\leetcode\two-pointers\most-water\obj\Debug\net7.0\most-water.genruntimeconfig.cache
+C:\Users\Quyson\Desktop\computer\leetcode\two-pointers\most-water\obj\Debug\net7.0\ref\most-water.dll
